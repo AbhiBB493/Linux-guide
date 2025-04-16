@@ -1,0 +1,4 @@
+All the file systems in a server are by default created in / , as the storage is allocated in "/" path
+if you have ~ at the end of teh server name after login then you're in /home/user path by default (/user here is what ever user you have logged in as)
+two commands for creating a user they are : adduser and useradd (** useradd command just create the user but dont home directory ** )
+If use command which for any command like " which ls" it will shows from where the command ls is getting executed
